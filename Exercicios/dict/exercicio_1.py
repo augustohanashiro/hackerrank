@@ -3,7 +3,7 @@
 from collections import Counter
 
 # Counter me gera uma biblioteca com as ocorrencias como chave e os elementos
-# da lista como valores
+# da lista como valores 
 
 
 n_tenis_disponiveis = int(input())

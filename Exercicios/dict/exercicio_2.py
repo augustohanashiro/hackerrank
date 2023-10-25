@@ -24,10 +24,10 @@ n_elementos_a, m_elementos_b = map(int,input().split(" "))
 indices_ocorrencias = ""
 for indice in range(n_elementos_a):
     grupos["A"].append(input())
-# print(grupos)
+# print(grupos) 
 
 for indice in range(m_elementos_b):
-    grupos["B"].append(input())
+    grupos["B"].append(input()) 
 # print(grupos)
 
 for elemento in grupos["B"]:

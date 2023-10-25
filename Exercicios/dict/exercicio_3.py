@@ -1,7 +1,7 @@
 # tupla nomeada
 import numpy as np 
 from collections import namedtuple
-
+ 
 # namedtuple("nomeTupla","elementos da tupla")
 # tupla com os indices nomeados
  
